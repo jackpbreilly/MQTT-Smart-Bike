@@ -1,0 +1,1 @@
+{"connect":"SFTP","host":"192.168.0.63","port":"22","user":"pi","remoteRoot":"","privateKeyFile":""}
